@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 div{
-	color: purple;
-	background-color: lightblue;
-	position: relative;
-	padding: 200px;
-	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: lightblue; 
 	align-items: center;
+	display:flex;
+	justify-content: center;
 	border: 2px solid black;
 }
