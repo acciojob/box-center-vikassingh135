@@ -8,3 +8,8 @@
 	justify-content: center;
 	border: 2px solid black;
 }
+
+.container .text{
+	color: purple;
+	font-size: 30px;
+}
